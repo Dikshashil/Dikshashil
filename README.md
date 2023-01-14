@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dikshashil
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning Java
-- 📫 How to reach me - dik.shil@gmail.com
+- 👀 I’m interested in Software development and Web Development
+- 📫 How to reach me - dikshashil99@gmail.com
 
 <!---
 Dikshashil/Dikshashil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
