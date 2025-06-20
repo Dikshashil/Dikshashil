@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dikshashil
+- 👋 Hi, I’m Diksha
 - 👀 I’m interested in Software development and Web Development
 - 📫 How to reach me - dikshashil99@gmail.com
 
