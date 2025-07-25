@@ -44,6 +44,10 @@
 
 ---
 
+### 🙋‍♀️ Let’s Collaborate!
+
+Looking to contribute or collaborate on exciting projects? I'm open to freelance, full-time roles, and team collaborations in **Frontend Development** or **Full MERN Stack**. Let's build something amazing together!
+
 ⭐ *Thanks for visiting my profile! Let's build and grow together.*
 
 
