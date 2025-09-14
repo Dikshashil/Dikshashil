@@ -11,7 +11,7 @@
 - 🎓 B.Tech in Electronics & Communication (2021)
 - 🔁 Transitioned into Software Development
 - 🌐 Focused on Frontend & MERN Stack development
-- 📍 Currently aiming for opportunities in **Gurugram **,**Hyderabad**
+- 📍 Currently aiming for opportunities in Gurugram, Hyderabad, Bangalore
 - 🌱 Currently learning: **React.js**, **Express.js (MVC)**
 
 ---
